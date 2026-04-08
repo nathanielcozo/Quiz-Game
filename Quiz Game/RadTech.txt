@@ -1,0 +1,50 @@
+What does kVp control in an x-ray machine?|A. Exposure time|B. Tube current|C. Penetrating power of x-rays|D. Film size|C
+What does mA control?|A. Beam quality|B. Quantity of x-rays produced|C. Patient position|D. Image contrast|B
+The unit of radiation exposure is:|A. Volt|B. Ampere|C. Roentgen|D. Ohm|C
+Which organ is most sensitive to radiation?|A. Heart|B. Liver|C. Thyroid gland|D. Muscle|C
+ALARA stands for:|A. As Low As Radiation Allows|B. As Low As Reasonably Achievable|C. As Long As Radiation Applies|D. As Light As Radiation Area|B
+The anode in an x-ray tube is:|A. Negatively charged|B. Positively charged|C. Neutral|D. Grounded|B
+The cathode contains the:|A. Target|B. Rotor|C. Filament|D. Glass envelope|C
+Increasing kVp will:|Decrease penetration|B. Increase penetration|C. Decrease exposure|D. Shorten SID|B
+The standard SID for chest x-ray is:|A. 40 inches|B. 60 inches|C. 72 inches|D. 80 inches|C
+What is the purpose of collimation?|A. Increase radiation|B. Reduce patient dose and scatter|C. Increase exposure time|D. Improve brightness|B
+Scatter radiation reduces:|A. Density|B. Image contrast|C. mA|D. SID|B
+Grid is used to:|A. Increase kVp|B. Reduce motion|C. Absorb scatter radiation|D. Increase SID|C
+The densest structure on x-ray appears:|A. Black|B. White|C. Gray|D. Transparent|B
+Air appears on x-ray as:|A. Black|B. White|C. Gray|D. Opaque|A
+The unit for absorbed dose is:|A. Roentgen|B. Gray (Gy)|C. Watt|D. Volt|B
+Which positioning is used for fluid levels?|A. Supine|B. Prone|C. Upright|D. Lateral recumbent|C
+The smallest focal spot size gives:|A. More blur|B. Better detail|C. More scatter|D. Lower contrast|B
+What causes motion blur?|A. High kVp|B. Short exposure time|C. Patient movement|D. Low SID|C
+Lead apron is used for:|A. Comfort|B. Radiation protection|C. Image clarity|D. Positioning|B
+Which exam requires contrast media?|A. Chest x-ray|B. Barium enema|C. Skull x-ray|D. Hand x-ray|B
+The primary radiation beam is:|A. Scattered radiation|B. Useful beam from the tube|C. Leakage radiation|D. Secondary radiation|B
+What does increasing mAs increase?|A. Contrast|B. Image density|C. SID|D. Collimation|B
+Inverse square law affects:|A. kVp|B. Intensity of radiation|C. mA|D. Grid ratio|B
+Which bone is part of the axial skeleton?|A. Femur|B. Humerus|C. Skull|D. Tibia|C
+PA chest means:|A. Posterior to anterior|B. Posteroanterior|C. Position and angle|D. Partial anterior|B
+The purpose of filtration is to:|A. Increase dose|B. Remove low-energy x-rays|C. Increase scatter|D. Increase noise|B
+The image receptor captures:|A. Sound waves|B. X-ray photons|C. Heat|D. Electricity|B
+Radiation badge measures:|A. Patient dose|B. Occupational exposure|C. kVp|D. SID|B
+The half-value layer measures:|A. Exposure time|B. Beam quality|C. Density|D. Motion|B
+Which plane divides the body left and right?|A. Coronal|B. Sagittal|C. Transverse|D. Oblique|B
+Which projection is best for patella?|A. AP|B. Lateral|C. Sunrise (Skyline)|D. Oblique|C
+Increasing SID will:|A. Increase magnification|B. Decrease magnification|C. Increase scatter|D. Increase contrast|B
+The protective device for thyroid is:|A. Gonad shield|B. Thyroid shield|C. Grid|D. Cassette|B
+Radiation sickness first affects:|A. Bone|B. Muscle|C. Blood cells|D. Hair|C
+Digital radiography uses:|A. Film|B. Electronic detectors|C. Chemicals|D. Cassettes only|B
+Window level controls:|A. Image size|B. Brightness|C. SID|D. mA|B
+Window width controls:|A. Density|B. Contrast|C. Position|D. Focal spot|B
+Which contrast is used for GI studies?|A. Iodine|B. Barium sulfate|C. Air only|D. Lead|B
+The heel effect causes:|A. Equal intensity|B. Uneven beam intensity|C. Less contrast|D. Motion|B
+Which exam uses fluoroscopy?|A. Hand x-ray|B. Upper GI series|C. Foot x-ray|D. Skull x-ray|B
+The rotor in x-ray tube helps to:|A. Produce electrons|B. Rotate the anode|C. Cool the patient|D. Increase mA|B
+The target material in anode is usually:|A. Copper|B. Tungsten|C. Lead|D. Silver|B
+High kVp results in:|A. High contrast|B. Low contrast (long scale)|C. No exposure|D. Motion blur|B
+The part that controls exposure time is:|A. Grid|B. Timer|C. Collimator|D. Filter|B
+What is the safe pregnancy sign in x-ray?|A. No radiation allowed|B. Inform technologist before exam|C. Remove shoes|D. Stand closer|B
+The study of radiation effects is called:|A. Anatomy|B. Radiobiology|C. Pathology|D. Physiology|B
+Which bone protects the brain?|A. Mandible|B. Cranium|C. Clavicle|D. Scapula|B
+The purpose of immobilization is to:|A. Increase dose|B. Prevent motion|C. Increase magnification|D. Improve brightness|B
+Which factor affects magnification?|A. mA|B. OID (Object to Image Distance)|C. kVp|D. Grid|B
+Radiation that escapes from tube housing is:|A. Primary|B. Scatter|C. Leakage radiation|D. Secondary|C

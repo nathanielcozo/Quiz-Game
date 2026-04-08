@@ -1,0 +1,25 @@
+What is the output of print(type(10))?|A. <class 'int'>|B. <class 'float'>|C. <class 'str'>|D. <class 'bool'>|A
+Which keyword is used to define a function in Python?|A. func|B. define|C. def|D. function|C
+What does the len() function do?|A. Returns the type of an object|B. Returns the length of an object|C. Converts a value to an integer|D. Prints output|B
+How do you insert comments in Python code?|A. // comment|B. # comment|C. /* comment */|D. <!-- comment -->|B
+Which of the following is mutable?|A. Tuple|B. String|C. List|D. Integer|C
+How do you create a dictionary in Python?|A. d = {}|B. d = []|C. d = ()|D. d = ""|A
+What is the output of 5 ** 2?|A. 7|B. 10|C. 25|D. 52|C
+Which operator is used for floor division?|A. /|B. //|C. %|D. **|B
+What will bool(0) return?|A. True|B. False|C. 0|D. 1|B
+Which method adds an item to the end of a list?|A. append()|B. insert()|C. add()|D. extend()|A
+How do you start a for loop in Python?|A. for i in range(5):|B. for i=0 to 5:|C. foreach i in range(5):|D. loop i in range(5):|A
+What is the output of print(10 % 3)?|A. 1|B. 3|C. 10|D. 0|A
+Which of these is not a Python data type?|A. Set|B. Dictionary|C. Array|D. List|C
+How do you check the type of a variable x?|A. type(x)|B. typeof(x)|C. check(x)|D. datatype(x)|A
+What is the output of print(bool(""))?|A. True|B. False|C. None|D. Error|B
+Which keyword is used for exception handling?|A. catch|B. try|C. error|D. except|B
+How do you remove a key from a dictionary d?|A. del d[key]|B. remove(d[key])|C. d.popitem(key)|D. d.delete(key)|A
+Which function converts a string s to an integer?|A. int(s)|B. str(s)|C. float(s)|D. num(s)|A
+What is the output of print("Python"[::-1])?|A. Python|B. nohtyP|C. P|D. Error|B
+Which statement is used to stop a loop?|A. stop|B. break|C. exit|D. end|B
+What is the correct way to import the math module?|A. import math|B. include math|C. require math|D. using math|A
+Which of these is a Python tuple?|A. [1, 2, 3]|B. (1, 2, 3)|C. {1, 2, 3}|D. 1, 2, 3|B
+What will x = [1, 2, 3]; x * 2 produce?|A. [2, 4, 6]|B. [1, 2, 3, 1, 2, 3]|C. [1, 4, 9]|D. [1, 2, 3, 2]|B
+Which of these is used to create a set in Python?|A. set([1,2,3])|B. [1,2,3]|C. {1,2,3}|D. (1,2,3)|A
+How do you check if "apple" is in a list fruits?|A. fruits.contains("apple")|B. "apple" in fruits|C. fruits.has("apple")|D. fruits.include("apple")|B

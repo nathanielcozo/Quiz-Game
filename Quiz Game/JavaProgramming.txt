@@ -1,0 +1,25 @@
+What is the size of an int in Java?|A. 2 bits|B. 4 bits|C. 32 bits|D. 64 bits|C
+Which keyword is used to inherit a class in Java?|A. implements|B. extends|C. inherits|D. super|B
+Which method is the entry point of a Java program?|A. start()|B. run()|C. main()|D. init()|C
+Which of the following is not a primitive data type?|A. int|B. boolean|C. String|D. double|C
+What is the default value of a boolean variable?|A. true|B. false|C. 0|D. null|B
+Which symbol is used to access members of a class?|A. ->|B. ::|C. .|D. :|C
+Which loop is guaranteed to execute at least once?|A. for loop|B. while loop|C. do-while loop|D. foreach loop|C
+What does JVM stand for?|A. Java Variable Machine|B. Java Virtual Machine|C. Joint Virtual Method|D. Java Verified Machine|B
+Which keyword is used to prevent inheritance?|A. static|B. constant|C. final|D. private|C
+Which exception occurs when dividing by zero?|A. IOException|B. ArithmeticException|C. NullPointerException|D. NumberFormatException|B
+Which collection does not allow duplicate elements?|A. List|B. Map|C. Set|D. ArrayList|C
+Which keyword is used to define a constant variable?|A. static|B. final|C. const|D. define|B
+Which operator is used for comparison?|A. =|B. ==|C. :=|D. equals|B
+What is the parent class of all classes in Java?|A. Object|B. Class|C. Main|D. System|A
+Which keyword is used to handle exceptions?|A. catch|B. throw|C. try|D. All of the above|D
+Which method is used to print output in Java?|A. print()|B. echo()|C. System.out.println()|D. write()|C
+Which of the following is used to create an object?|A. class|B. new|C. create|D. object|B
+What is the default value of an int variable?|A. 1|B. 0|C. null|D. undefined|B
+Which access modifier makes a member accessible only within the same class?|A. public|B. protected|C. private|D. default|C
+Which package is automatically imported in every Java program?|A. java.util|B. java.io|C. java.lang|D. java.net|C
+Which type of inheritance is not supported directly in Java using classes?|A. Single|B. Multilevel|C. Hierarchical|D. Multiple|D
+Which interface is implemented to create a thread?|A. Serializable|B. Runnable|C. Comparable|D. Cloneable|B
+What is used to store key-value pairs?|A. List|B. Set|C. Map|D. Queue|C
+Which keyword is used to call the parent class constructor?|A. this|B. super|C. parent|D. base|B
+Which statement is used to exit a loop?|A. stop|B. end|C. break|D. exit|C
